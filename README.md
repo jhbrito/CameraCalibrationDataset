@@ -13,6 +13,8 @@ All images were taken in the same controlled lighting environment, with difuse l
 
 ## Image samples
 
+<img src="https://user-images.githubusercontent.com/19577316/119135388-3d0a0800-ba36-11eb-9d84-20b3acd5eb22.JPG" alt="drawing" width="200"/>
+
 ![IMG_2322](https://user-images.githubusercontent.com/19577316/119135388-3d0a0800-ba36-11eb-9d84-20b3acd5eb22.JPG)
 Cannon 6D Lens Cannon 35mm
 
