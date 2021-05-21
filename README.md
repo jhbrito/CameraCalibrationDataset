@@ -14,6 +14,7 @@ All images were taken in the same controlled lighting environment, with difuse l
 ## Image samples
 
 | Samples |    |
+|:-------------:|:-------------:|
 |<img src="https://user-images.githubusercontent.com/19577316/119135388-3d0a0800-ba36-11eb-9d84-20b3acd5eb22.JPG" alt="drawing" width="200"/>| <img src="https://user-images.githubusercontent.com/19577316/119135623-93774680-ba36-11eb-8148-b42bb833f514.JPG" alt="drawing" width="200"/>
 |Cannon 6D Lens Cannon 35mm| Cannon 6D Lens Cannon Ultrasonic Macro 24-105mm |
 
