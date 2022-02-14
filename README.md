@@ -7,7 +7,7 @@ For the Cannon 6D, different lenses were used.
 
 The calibration target is a 10x7 checkerboard printed on a flat vynil board. The physical size of each square is 26mm.
 
-For each camera-lens pair 25 images were taken.
+For each camera-lens pair, 25 images were taken.
 All images were taken in the same controlled lighting environment, with difuse lighting, with the maximum possible resolution.
 
 <img src="https://user-images.githubusercontent.com/19577316/119136736-f1f0f480-ba37-11eb-959d-2d1127b00d1f.JPG" alt="drawing" width="300"/>
